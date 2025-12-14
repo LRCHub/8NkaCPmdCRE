@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ムカつく奴は敵",
+  "base_artist": "超能力戦士ドリアン",
+  "createdAt": "2025-12-14T06:06:32.992653Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ムカつく奴は敵",
+      "artist": "超能力戦士ドリアン",
+      "has_synced": false,
+      "path": "select/pl_01_ムカつく奴は敵_超能力戦士ドリアン.txt"
+    }
+  ]
+}
